@@ -24,7 +24,8 @@ This project was developed by me as a hands-on learning experience. I utilized m
 
 ## 📸 Preview
 
-![QR Code Alchemist Screenshot](preview.png)
+![ee0deb44-35d4-4637-9d06-981aea0e9484](https://github.com/user-attachments/assets/9c758ea7-a72c-42d9-b195-749748eac6ed)
+
 
 ## 🚀 Getting Started
 
