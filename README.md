@@ -3,7 +3,7 @@
 A simple and fast **QR Code Generator** web app that lets users generate QR codes from any input text or URL.
 
 ## 🔗 Live Demo
-[Click here to try it out!](https://qr-code-alchemist.gptengineer.run/)
+[Click here to try it out!](https://qr-code-generator-kappa-gilt.vercel.app/)
 
 ## 🛠️ About the Project
 
